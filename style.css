@@ -1,0 +1,62 @@
+body {
+  background-color:Gold;
+}
+
+
+.Top_menu li{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 130px;
+  }
+.Top_menu a{
+  font-size: 20px;
+  font-family: Georgia; 
+  color: Black;
+  vertical-align: middle;
+  }
+
+ p{
+  font-size: 30px;
+  font-family:Georgia;
+  color: DarkSlateGrey;
+  vertical-align: middle;
+}
+ h2{
+  font-size: 20px;
+  font-family:Georgia;
+  color: Black;
+  vertical-align: middle;
+}
+.special {
+	text-align: center;
+	font-family:Georgia;
+		} 
+.special2 {
+	color: white; 
+} 
+img {margin-right: 30px;
+}
+table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 25px;
+  background: Khaki;
+  max-width: 100%;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+th {
+  font-weight: normal;
+  color: #D2691E;
+  border-bottom: 2px solid #6678b1;
+  padding: 10px 8px;
+}
+td {
+  border-bottom: 1px solid #ccc;
+  color: #D2691E;
+  padding: 9px 8px;
+  transition: .3s linear;
+}
+tr:hover td {
+  color: #6699ff;
+}
